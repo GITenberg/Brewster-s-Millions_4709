@@ -1,0 +1,38 @@
+_repo: Brewster-s-Millions_4709
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McCutcheon, George Barr
+    birthdate: 1866
+    deathdate: 1928
+    gutenberg_agent_id: '1555'
+    url: http://www.gutenberg.org/2009/agents/1555
+    wikipedia: http://en.wikipedia.org/wiki/George_Barr_McCutcheon
+description: "Brewster's Millions is a novel written by George Barr McCutcheon in\
+  \ 1902, originally under the pseudonym of Richard Greaves. It was adapted into a\
+  \ play in 1906, which opened at the New Amsterdam Theatre on Broadway, and the novel\
+  \ or play has been adapted into films ten times, three of which were produced in\
+  \ India.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Best Books Ever Listings
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4709'
+  wikidata: Q13468119
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bildungsromans'
+- !lcc 'PS'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Young men -- Fiction'
+- !lcsh 'Humorous stories'
+- !lcsh 'Millionaires -- Fiction'
+- GITenberg
+title: Brewster's Millions
+url: http://www.gutenberg.org/ebooks/4709
+wikipedia:
+- https://sh.wikipedia.org/wiki/Brewster%27s_Millions
+- https://en.wikipedia.org/wiki/Brewster%27s_Millions
