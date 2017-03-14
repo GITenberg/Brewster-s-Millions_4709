@@ -1,5 +1,8 @@
 _repo: Brewster-s-Millions_4709
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: McCutcheon, George Barr
@@ -13,6 +16,8 @@ description: "Brewster's Millions is a novel written by George Barr McCutcheon i
   \ play in 1906, which opened at the New Amsterdam Theatre on Broadway, and the novel\
   \ or play has been adapted into films ten times, three of which were produced in\
   \ India.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4709#Brewster-s-Millions
 gutenberg_bookshelf: Best Books Ever Listings
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
